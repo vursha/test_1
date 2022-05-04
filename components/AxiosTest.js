@@ -10,7 +10,7 @@ import {StyleSheet, Text, View, ScrollView,TextInput,TouchableOpacity} from 'rea
 import React, {useEffect, useState} from 'react';
 import axios from 'axios';
 import { DataTable } from 'react-native-paper';
-import Items from './data.json'
+import Items from './data.json';
 
 
 
